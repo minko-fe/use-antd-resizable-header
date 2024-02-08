@@ -1,5 +1,14 @@
 # use-antd-resizable-header
 
+## 此包已废弃!
+
+请安装 `use-antd-resizable-header`
+
+```bash
+npm i use-antd-resizable-header
+```
+---
+
 > antd 表格头拖拽 Hook，兼容 Table ProTable
 
 ## 预览
